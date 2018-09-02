@@ -1,0 +1,3 @@
+C:/Users/96552/CLionProjects/project3/release/CMakeFiles/rotate.dir
+C:/Users/96552/CLionProjects/project3/release/CMakeFiles/edit_cache.dir
+C:/Users/96552/CLionProjects/project3/release/CMakeFiles/rebuild_cache.dir

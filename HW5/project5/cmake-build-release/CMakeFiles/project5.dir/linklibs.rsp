@@ -1,0 +1,1 @@
+ -L"D:/Program Files(x86)/MingW64/x86_64-w64-mingw32/lib32" -lfreeglut_static -lopengl32 -lglu32 -lwinmm -lgdi32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

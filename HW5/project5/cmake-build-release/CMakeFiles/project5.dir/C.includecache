@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/textbook/sophomore term 2/CG/HW5/project5/display.h
+GL/glut.h
+-
+
+E:/textbook/sophomore term 2/CG/HW5/project5/main.c
+GL/glut.h
+-
+display.h
+E:/textbook/sophomore term 2/CG/HW5/project5/display.h
+

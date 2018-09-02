@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/96552/CLionProjects/project3/display.h
+GL/glut.h
+-
+
+C:/Users/96552/CLionProjects/project3/rotate.cpp
+display.h
+C:/Users/96552/CLionProjects/project3/display.h
+
